@@ -1,0 +1,14 @@
+<Datum>
+  <Name>ETRS89_USK2000</Name> 
+  <Comment>Ukrainian coordinate system 2000 (ERTS89 Transformation)</Comment> 
+  <Ellipsoid>KRASS</Ellipsoid> 
+  <DX>24.376</DX> 
+  <DY>-121.321</DY> 
+  <DZ>-75.895</DZ> 
+  <RX>-0.001296</RX> 
+  <RY>-0.007840</RY> 
+  <RZ>0.012672</RZ> 
+  <Scale>0</Scale> 
+  <IsVoid>0</IsVoid> 
+  <IsChangeable>0</IsChangeable> 
+</Datum>

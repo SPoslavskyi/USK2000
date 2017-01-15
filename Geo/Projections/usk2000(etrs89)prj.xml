@@ -1,0 +1,149 @@
+<Projection>
+<Name>USK2000_6-Zone 4</Name>
+<Unit>Meters</Unit>
+<Datum>ETRS89_USK2000</Datum> 
+<AnyDatum>0</AnyDatum>
+<Region>Ukraine</Region>
+<Type>TMERC</Type>
+<P0 name="Central Meridian">210000.00000</P0>
+<P1 name="Scale">1</P1>
+<P2 name="Lat0">00000.00000</P2>
+<P3 name="East0">4500000</P3>
+<P4 name="North0">0</P4>
+</Projection>
+<Projection>
+<Name>USK2000_6-Zone 5</Name>
+<Unit>Meters</Unit>
+<Datum>ETRS89_USK2000</Datum> 
+<AnyDatum>0</AnyDatum>
+<Region>Ukraine</Region>
+<Type>TMERC</Type>
+<P0 name="Central Meridian">270000.00000</P0>
+<P1 name="Scale">1</P1>
+<P2 name="Lat0">00000.00000</P2>
+<P3 name="East0">5500000</P3>
+<P4 name="North0">0</P4>
+</Projection>
+<Projection>
+<Name>USK2000_6-Zone 6</Name>
+<Unit>Meters</Unit>
+<Datum>ETRS89_USK2000</Datum> 
+<AnyDatum>0</AnyDatum>
+<Region>Ukraine</Region>
+<Type>TMERC</Type>
+<P0 name="Central Meridian">330000.00000</P0>
+<P1 name="Scale">1</P1>
+<P2 name="Lat0">00000.00000</P2>
+<P3 name="East0">6500000</P3>
+<P4 name="North0">0</P4>
+</Projection>
+<Projection>
+<Name>USK2000_6-Zone 7</Name>
+<Unit>Meters</Unit>
+<Datum>ETRS89_USK2000</Datum> 
+<AnyDatum>0</AnyDatum>
+<Region>Ukraine</Region>
+<Type>TMERC</Type>
+<P0 name="Central Meridian">390000.00000</P0>
+<P1 name="Scale">1</P1>
+<P2 name="Lat0">00000.00000</P2>
+<P3 name="East0">7500000</P3>
+<P4 name="North0">0</P4>
+</Projection>
+ 
+<Projection>
+<Name>USK2000_3-Zone 7 (CM21)</Name>
+<Unit>Meters</Unit>
+<Datum>ETRS89_USK2000</Datum> 
+<AnyDatum>0</AnyDatum>
+<Region>Ukraine</Region>
+<Type>TMERC</Type>
+<P0 name="Central Meridian">210000.00000</P0>
+<P1 name="Scale">1</P1>
+<P2 name="Lat0">00000.00000</P2>
+<P3 name="East0">300000</P3>
+<P4 name="North0">0</P4>
+</Projection>
+<Projection>
+<Name>USK2000_3-Zone 8 (CM24)</Name>
+<Unit>Meters</Unit>
+<Datum>ETRS89_USK2000</Datum> 
+<AnyDatum>0</AnyDatum>
+<Region>Ukraine</Region>
+<Type>TMERC</Type>
+<P0 name="Central Meridian">240000.00000</P0>
+<P1 name="Scale">1</P1>
+<P2 name="Lat0">00000.00000</P2>
+<P3 name="East0">300000</P3>
+<P4 name="North0">0</P4>
+</Projection>
+<Projection>
+<Name>USK2000_3-Zone 9 (CM27)</Name>
+<Unit>Meters</Unit>
+<Datum>ETRS89_USK2000</Datum> 
+<AnyDatum>0</AnyDatum>
+<Region>Ukraine</Region>
+<Type>TMERC</Type>
+<P0 name="Central Meridian">270000.00000</P0>
+<P1 name="Scale">1</P1>
+<P2 name="Lat0">00000.00000</P2>
+<P3 name="East0">300000</P3>
+<P4 name="North0">0</P4>
+</Projection>
+<Projection>
+<Name>USK2000_3-Zone 10 (CM30)</Name>
+<Unit>Meters</Unit>
+<Datum>ETRS89_USK2000</Datum> 
+<AnyDatum>0</AnyDatum>
+<Region>Ukraine</Region>
+<Type>TMERC</Type>
+<P0 name="Central Meridian">300000.00000</P0>
+<P1 name="Scale">1</P1>
+<P2 name="Lat0">00000.00000</P2>
+<P3 name="East0">300000</P3>
+<P4 name="North0">0</P4>
+</Projection>
+<Projection>
+<Name>USK2000_3-Zone 11 (CM33)</Name>
+<Unit>Meters</Unit>
+<Datum>ETRS89_USK2000</Datum> 
+<AnyDatum>0</AnyDatum>
+<Region>Ukraine</Region>
+<Type>TMERC</Type>
+<P0 name="Central Meridian">330000.00000</P0>
+<P1 name="Scale">1</P1>
+<P2 name="Lat0">00000.00000</P2>
+<P3 name="East0">300000</P3>
+<P4 name="North0">0</P4>
+</Projection>
+<Projection>
+<Name>USK2000_3-Zone 12 (CM36)</Name>
+<Unit>Meters</Unit>
+<Datum>ETRS89_USK2000</Datum> 
+<AnyDatum>0</AnyDatum>
+<Region>Ukraine</Region>
+<Type>TMERC</Type>
+<P0 name="Central Meridian">360000.00000</P0>
+<P1 name="Scale">1</P1>
+<P2 name="Lat0">00000.00000</P2>
+<P3 name="East0">300000</P3>
+<P4 name="North0">0</P4>
+</Projection>
+<Projection>
+<Name>USK2000_3-Zone 13 (CM39)</Name>
+<Unit>Meters</Unit>
+<Datum>ETRS89_USK2000</Datum> 
+<AnyDatum>0</AnyDatum>
+<Region>Ukraine</Region>
+<Type>TMERC</Type>
+<P0 name="Central Meridian">390000.00000</P0>
+<P1 name="Scale">1</P1>
+<P2 name="Lat0">00000.00000</P2>
+<P3 name="East0">300000</P3>
+<P4 name="North0">0</P4>
+</Projection>
+
+
+
+
+
