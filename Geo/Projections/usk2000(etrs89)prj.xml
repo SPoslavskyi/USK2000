@@ -286,3 +286,42 @@
 <P3 name="East0">300000</P3>
 <P4 name="North0">0</P4>
 </Projection>
+<Projection>
+<Name>USK2000-MSK32</Name>
+<Unit>Meters</Unit>
+<Datum>ETRS89_USK2000</Datum>
+<AnyDatum>0</AnyDatum>
+<Region>Ukraine</Region>
+<Type>TMERC</Type>
+<P0 name="Central Meridian">303000.00000</P0>
+<P1 name="Scale">1</P1>
+<P2 name="Lat0">00000.00000</P2>
+<P3 name="East0">300000</P3>
+<P4 name="North0">0</P4>
+</Projection>
+<Projection>
+<Name>USK2000-MSK35</Name>
+<Unit>Meters</Unit>
+<Datum>ETRS89_USK2000</Datum>
+<AnyDatum>0</AnyDatum>
+<Region>Ukraine</Region>
+<Type>TMERC</Type>
+<P0 name="Central Meridian">320000.00000</P0>
+<P1 name="Scale">1</P1>
+<P2 name="Lat0">00000.00000</P2>
+<P3 name="East0">300000</P3>
+<P4 name="North0">0</P4>
+</Projection>
+<Projection>
+<Name>USK2000-MSK44</Name>
+<Unit>Meters</Unit>
+<Datum>ETRS89_USK2000</Datum>
+<AnyDatum>0</AnyDatum>
+<Region>Ukraine</Region>
+<Type>TMERC</Type>
+<P0 name="Central Meridian">390000.00000</P0>
+<P1 name="Scale">1</P1>
+<P2 name="Lat0">00000.00000</P2>
+<P3 name="East0">300000</P3>
+<P4 name="North0">0</P4>
+</Projection>
